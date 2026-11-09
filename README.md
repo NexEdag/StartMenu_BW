@@ -1,3 +1,5 @@
+# What is this fork?
+this fork is modified by me.
 # 👀 What is this? 
 A custom start menu for Fire Red. <br>
 Normal: <br> 
